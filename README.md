@@ -75,4 +75,4 @@ This is an educational scheduling model, not a clinical decision system. Real ho
 The project supports discussion of timely access to essential healthcare and efficient use of limited hospital resources, contributing to **SDG 3: Good Health and Well-being**.
 
 ## Team details
-Add your team members, roll numbers, college and faculty guide before submission.
+25A31A05JA 25A31A05JC 25A31A05JJ 25A31A05JG
